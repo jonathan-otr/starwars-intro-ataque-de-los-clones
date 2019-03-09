@@ -13,3 +13,4 @@ Lenguajes de programación usados:
  -HTML (conseguir el audio original de la saga)
  -JavaScript (sincronizar el audio con los eventos)
 
+Para descargar unicamente utiliza 'git@github.com:jonathan-otr/starwars-intro-ataque-de-los-clones.git' dentro de tu consola de comandos.
